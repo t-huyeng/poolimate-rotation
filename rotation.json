@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Bier",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Pommes",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+  ]
+}
