@@ -6,10 +6,39 @@
    "closeExistingTabs":false,
    "websites":[
       {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Bier",
+         "url":"https://grafana.poolimate.de/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Bier",
          "duration":30,
-         "tabReloadIntervalSeconds":1200
+         "tabReloadIntervalSeconds":70
       },
-
+      {
+         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Caipirinha",
+         "duration":5,
+         "tabReloadIntervalSeconds":70
+      },
+      {
+         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Munich (Gin) Mule",
+         "duration":5,
+         "tabReloadIntervalSeconds":70
+      },
+      {
+         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Cuba Libre",
+         "duration":5,
+         "tabReloadIntervalSeconds":70
+      },
+      {
+         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Gin Tonic ",
+         "duration":5,
+         "tabReloadIntervalSeconds":70
+      },
+      {
+         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Mexikaner",
+         "duration":10,
+         "tabReloadIntervalSeconds":70
+      },
+      {
+         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Pfeffi",
+         "duration":10,
+         "tabReloadIntervalSeconds":70
+      }
    ]
 }
