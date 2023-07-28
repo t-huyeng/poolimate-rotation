@@ -1,43 +1,23 @@
 {
    "settingsReloadIntervalMinutes":1,
    "fullscreen":true,
-   "autoStart":false,
+   "autoStart":true,
    "lazyLoadTabs":false,
    "closeExistingTabs":false,
    "websites":[
       {
-         "url":"https://grafana.poolimate.de/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Bier",
+         "url":"https://grafana.poolimate.de/d/7VnG9Rm4k/order-stats-postgresql?orgId=2&refresh=1m&var-items=Beer",
          "duration":30,
          "tabReloadIntervalSeconds":70
       },
       {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Caipirinha",
+         "url":"https://grafana.poolimate.de/d/7VnG9Rm4k/order-stats-postgresql?orgId=2&refresh=1m&var-items=Aperol%20Sprizz",
          "duration":5,
          "tabReloadIntervalSeconds":70
       },
       {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Munich (Gin) Mule",
+         "url":"https://grafana.poolimate.de/d/7VnG9Rm4k/order-stats-postgresql?orgId=2&refresh=1m&var-items=Radler",
          "duration":5,
-         "tabReloadIntervalSeconds":70
-      },
-      {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Cuba Libre",
-         "duration":5,
-         "tabReloadIntervalSeconds":70
-      },
-      {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Gin Tonic ",
-         "duration":5,
-         "tabReloadIntervalSeconds":70
-      },
-      {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Mexikaner",
-         "duration":10,
-         "tabReloadIntervalSeconds":70
-      },
-      {
-         "url":"https://poolimate.grafana.net/d/7VnG9Rm4k/order-stats-postgresql?orgId=1&var-items=Pfeffi",
-         "duration":10,
          "tabReloadIntervalSeconds":70
       }
    ]
